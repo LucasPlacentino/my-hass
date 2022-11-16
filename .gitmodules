@@ -1,0 +1,91 @@
+# git repos for my hass setup, saved as git submodules
+
+
+# ####### CARDS #######
+
+[submodule "round-slider"]
+	path = cards/round-slider
+	url = https://github.com/thomasloven/round-slider.git
+[submodule "mini-graph-card"]
+	path = cards/mini-graph-card
+	url = https://github.com/kalkih/mini-graph-card.git
+[submodule "weather-card"]
+	path = cards/weater-card
+	url = https://github.com/bramkragten/weather-card.git
+  # USED ?
+[submodule "ha-floorplan"]
+	path = cards/ha-floorplan
+	url = https://github.com/balloob/ha-floorplan.git
+  # USED ?
+[submodule "circle-sensor-card"]
+	path = cards/circle-sensor-card
+	url = https://github.com/custom-cards/circle-sensor-card.git
+  # USED ?
+[submodule "lovelace-badge-card"]
+	path = cards/lovelace-badge-card
+	url = https://github.com/thomasloven/lovelace-badge-card.git
+  # NOT used
+[submodule "round-slider"]
+	path = cards/round-slider
+	url = https://github.com/thomasloven/round-slider.git
+  # USED ?
+[submodule "round-slider"]
+	path = cards/round-slider
+	url = https://github.com/thomasloven/round-slider.git
+  # USED ?
+[submodule "round-slider"]
+	path = cards/round-slider
+	url = https://github.com/thomasloven/round-slider.git
+  # USED ?
+  
+
+# ####### THEME #######
+
+[submodule "homekit-infused"]
+  path = theme/homekit-infused
+  url = https://github.com/jimz011/homekit-infused.git
+  # USED ?
+
+
+# ####### CUSTOM UI #######
+
+[submodule "compact-custom-header"] # ! ARCHIVED, NOT MAINTAINED ANYMORE
+  path = custom-ui/compact-custom-header
+  url = https://github.com/bramkragten/compact-custom-header.git
+  # NOT used
+  
+# ####### ICONS #######
+
+[submodule "hass-hue-icons"]
+	path = icons/hass-hue-icons
+	url = https://github.com/arallsopp/hass-hue-icons.git
+  # USED ?
+
+
+# ####### OTHER #######
+
+[submodule "hass-auto-backup"]
+  path = other/hass-auto-backup
+  url = https://github.com/jcwillox/hass-auto-backup.git
+  # USED ?
+[submodule "hagooglewifi"] # see on HACS
+  path = other/hagooglewifi
+  path = https://github.com/djtimca/hagooglewifi.git
+  # USED ?
+[submodule "ha-omada"] # see on HACS
+  path = other/ha-omada
+  path = https://github.com/zachcheatham/ha-omada.git
+  # USED ?
+[submodule "localtuya"] # see on HACS
+  path = other/localtuya
+  path = https://github.com/rospogrigio/localtuya.git
+  # USED ?
+[submodule "addon-aircast"]
+  path = other/addon-aircast
+  path = https://github.com/hassio-addons/addon-aircast.git
+  # USED ?
+[submodule "eufy_security"] # SEE ALL INSTRUCTIONS https://github.com/fuatakgun/eufy_security
+  path = other/eufy_security
+  path = https://github.com/fuatakgun/eufy_security.git
+  # USED ?
+
